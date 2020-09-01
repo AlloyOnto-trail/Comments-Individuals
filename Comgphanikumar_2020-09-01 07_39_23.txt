@@ -1,0 +1,7 @@
+gphanikumar
+ Subject
+ <http://semantic.iitm.ac.in/ConceptOnto/MaterialsConcepts#Abaqus>
+Object = 
+This is a test comment and can be deleted.
+Predicate = 
+ <http://www.w3.org/2000/01/rdf-schema#comment>
