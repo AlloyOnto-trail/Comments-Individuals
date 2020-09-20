@@ -1,0 +1,7 @@
+hariharan-metly
+ Subject
+ <http://semantic.iitm.ac.in/AlloyOnto/Element#chromium>
+Object = 
+test onto
+Predicate = 
+ <http://www.w3.org/2000/01/rdf-schema#comment>
