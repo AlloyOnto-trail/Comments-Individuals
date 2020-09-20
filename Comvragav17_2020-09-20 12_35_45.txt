@@ -1,0 +1,7 @@
+vragav17
+ Subject
+ <http://semantic.iitm.ac.in/AlloyOnto/Element#carbon>
+Object = 
+Heroku Commit Test
+Predicate = 
+ <http://www.w3.org/2000/01/rdf-schema#comment>
